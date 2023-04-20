@@ -1,0 +1,4 @@
+# NOTICE: Change this to just GoldyBot if pip fails to install it.
+# Like this: GoldyBot
+# (I developed this while gb framwork was in very deep development so I had to use a git development branch to install the correct gb version)
+GoldyBot@git+https://github.com/Goldy-Bot/Goldy-Bot-V5.git@dev/buttons-implementation

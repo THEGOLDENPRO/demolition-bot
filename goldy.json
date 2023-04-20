@@ -1,0 +1,24 @@
+{
+    "goldy" : {
+        "extensions": {
+            "ignored_extensions" : [],
+
+            "raise_on_load_error" : true,
+            "folder_location" : "./extensions"
+        },
+
+        "allowed_guilds" : {
+            "863416692083916820" : "test_server"
+        },
+
+        "bot_dev": null,
+        "ding_on_exit": false
+    },
+
+    "demolition_bot": {
+        "guild_to_nuke": "test_server",
+        "channels_to_ignore" : [
+            "863416694092333080"
+        ]
+    }
+}
